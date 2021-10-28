@@ -14,10 +14,15 @@
   <h4> <a href="https://gowise-e-learning.herokuapp.com/" target="_blank"> Deployed here  </a> </h4> <hr>
  <a href="https://gowise-e-learning.herokuapp.com/" target="_blank"> <img src="./GoWise E-Learning Wesite.jpg"/>  </a> </h2>  <hr><br>
 
-<h2>Secret Message Sharing Using QR Code :
- <h4> <a href="https://github.com/sunilsuryawanshi939/WhatsappChatExplorer" target="_blank"> Github Repo </a> </h4>
+<h2>Covid-19 Tracker Web Application:
+ <h4> <a href="https://github.com/MohitBaldawa/Covid-19-Tracker-web-application" target="_blank"> Github Repo </a> </h4>
+ <h4> <a href="https://mohitbaldawa.github.io/Covid-19-Tracker-web-application/" target="_blank"> Deployed here </a> </h4> <hr>
+ <a href="https://mohitbaldawa.github.io/Covid-19-Tracker-web-application/" target="_blank"> <img src="./Covid-19 Tracker.jpg"/>  </a> </h2>  <hr><br>
+ 
+ <h2>Secret Message Sharing Using QR Code :
+ <h4> <a href="https://github.com/MohitBaldawa/Secret-Message-Sharing" target="_blank"> Github Repo </a> </h4>
  <h4> <a href="#" target="_blank"> Deployed here </a> </h4> <hr>
- <a href="#" target="_blank"> <img src="./Covid-19 Tracker.jpg"/>  </a> </h2>  <hr><br>
+ <a href="#" target="_blank"> <img src="./Secret Message Sharing.png"/>  </a> </h2>  <hr><br>
 
 <a href="https://github-readme-stats.vercel.app/api?username=MohitBaldawa&show_icons=true&theme=tokyonight">
    <img src='https://github-readme-stats.vercel.app/api?username=MohitBaldawa&show_icons=true&theme=tokyonight'/>
