@@ -1,9 +1,9 @@
 <a href="https://mohitbaldawa.com" target="_blank"> <img src="./my.gif"/>  </a>
 
-<h1 align="center">Hi 👋, I'm Mohit Baldawa</h1>
+<h1 align="center">Hi 👋, I'm Mohit Baldawa</h1><br>
 
 
-<h1 align="center"> Projects</h2><br>
+<h1 align="center"> Projects</h2>
 <h2>Portfolio Website : 
  <h4> <a href="https://github.com/MohitBaldawa/Portfolio" target="_blank"> Github Repo </a> </h4>
  <h4> <a href="https://mohitbaldawa.com" target="_blank"> Deployed here </a> </h4> <hr>
