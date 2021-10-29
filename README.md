@@ -8,9 +8,10 @@
 
  <h4> <a href="https://github.com/MohitBaldawa/Portfolio" target="_blank"> Github Repo </a> </h4>
  <h4> <a href="https://mohitbaldawa.com" target="_blank"> Deployed here </a> </h4> <hr>
-  <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </P>
  <a href="https://mohitbaldawa.com" target="_blank"> <img src="./portfolio.png"/>  </a> </h2> <hr><br>
 
