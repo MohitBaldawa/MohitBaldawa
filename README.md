@@ -19,16 +19,20 @@ I am Full-Stack developer from India. I love building applications & discussing 
 ### I'm Currently
 
 - 📱 Building a cool Web app.
-- 📚 Mentoring budding programmers
 - ⚛️ Building Full-stack projects
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 <hr>
 ### Stuff I'm really good at
 
 <p>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+ <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
+ 
 </p>
 <hr>
 
