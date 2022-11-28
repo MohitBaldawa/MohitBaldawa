@@ -1,7 +1,36 @@
-<a href="https://mohitbaldawa.com" target="_blank"> <img src="./my.gif"/>  </a>
+<img align="left" width="150" height="150" alt="Mohit Baldawa" src="./GitHub Banner/avatar.png"/>
 
-<h1 align="center">Hi 👋, I'm Mohit Baldawa</h1><br>
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Techies...;I+am+Mohit+Baldawa;Nice+to+meet+you!&center=true&size=30">
+  </a>
 
+
+I am Full-Stack developer from India. I love building applications & discussing new product ideas. Reach out to me if you'd like to talk ✌️
+<h5 align="center">
+  <code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/youtube.png"> Youtube &nbsp </a></code>
+     <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/linkedin.svg">LinkedIn &nbsp</a></code>
+   <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/Telegram_logo.svg"> Telegram &nbsp</a></code>
+  <code><a href="#" title="Instagram Profile"><img width="22" src="./GitHub Banner/instagram.svg"> Instagram</a> &nbsp</code>
+   <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/stackoverflow.svg"> Stack Overflow &nbsp</a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank &nbsp</a></code>
+</h5>
+<hr>
+### I'm Currently
+
+- 📱 Building a cool Web app.
+- 📚 Mentoring budding programmers
+- ⚛️ Building Full-stack projects
+- 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+<hr>
+### Stuff I'm really good at
+
+<p>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+</p>
+<hr>
 
 <h1 align="center"> Projects</h2>
 <h2>Portfolio Website : 
