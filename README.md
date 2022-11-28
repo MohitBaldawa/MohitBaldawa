@@ -16,13 +16,13 @@ I am Full-Stack developer from India. I love building applications & discussing 
   <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank &nbsp</a></code>
 </h5>
 <hr>
-### I'm Currently
+### I'm Currently <br>
 
 - 📱 Building a cool Web app.
 - ⚛️ Building Full-stack projects
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 <hr>
-### Stuff I'm really good at
+### Stuff I'm really good at <br>
 
 <p>
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
