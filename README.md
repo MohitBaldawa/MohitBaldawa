@@ -13,7 +13,7 @@ I am Full-Stack developer from India. I love building applications & discussing 
    <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/Telegram_logo.svg"> Telegram &nbsp</a></code>
   <code><a href="#" title="Instagram Profile"><img width="22" src="./GitHub Banner/instagram.svg"> Instagram</a> &nbsp</code>
    <code><a href="#" title="Stack Overflow Profile"><img width="22" src="./GitHub Banner/stackoverflow.svg"> Stack Overflow &nbsp</a></code>
-  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank &nbsp</a></code>
+  <code><a href="#" title="HackerRank Profile"><img width="22" src="./GitHub Banner/hackerrank.png"> HackerRank &nbsp</a></code> </code>
 </h5>
 <hr>
 ### I'm Currently <br>
